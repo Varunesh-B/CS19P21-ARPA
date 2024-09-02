@@ -1,0 +1,5 @@
+$fno = 10
+$sno = 20
+$result = $fno +$sno
+$out = "The result is : " + $result
+New-Item -Path . -Name "Result.txt" -ItemType "file" -Value $out

@@ -1,0 +1,3 @@
+C:\Users\ukesh\AppData\Local\Programs\Python\Python310
+
+C:\Users\ukesh\AppData\Local\Programs\Python\Python310\python310.dll
